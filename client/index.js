@@ -1,4 +1,5 @@
 import React from "react";
+import "./src/index.css";
 import reactDom from "react-dom";
 import App from "./src/App";
 
